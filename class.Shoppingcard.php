@@ -1,6 +1,6 @@
 erste zeile versuch 2
 meine erste zeile schöön!!
-Zeile 1 ist jetz meine! asd asd sd 
+Zeile 1 ist jetz meine! (DAS IST DOCH ZEILE 3, was verstehe ich jetzt nicht?! ist das dumm.) asd asd sd !
 
 Hier ein Test zum simultanen Bearbeiten einer Datei.
 
