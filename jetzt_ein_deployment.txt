@@ -1,1 +1,1 @@
-deployment 20120802-1735
+./deployV1WKOnWebserver.sh /var/data/deployment 20120802-1735
