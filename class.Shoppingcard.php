@@ -1,7 +1,11 @@
+das ist enricos erste zeile
+s hjsüoghjpsjpghjpsohopsjgh
 ich änder auch die erste zeile! erste zeile versuch 2
+
 meine erste zeile schöön!!
 Zeile 1 ist jetz meine! (DAS IST DOCH ZEILE 3, was verstehe ich jetzt nicht?! ist das dumm.) asd asd sd !
-
+sg hsghsfgjpk shfüjk hgj 
+üpsjh üsjhghfgh
 Hier ein Test zum simultanen Bearbeiten einer Datei.
 
 Daniel: Blabla1
