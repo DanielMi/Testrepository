@@ -1,4 +1,5 @@
 meine erste zeile
+Zeile 1 ist jetz meine!
 
 Hier ein Test zum simultanen Bearbeiten einer Datei.
 
